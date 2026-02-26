@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="HealthChecks.Abstractions/HealthChecks.Abstractions.csproj" />
+  <Project Path="HealthChecks.Redis/HealthChecks.Redis.csproj" />
+  <Project Path="HealthChecks.SqlServer/HealthChecks.SqlServer.csproj" />
+  <Project Path="Watchdog.Api/Watchdog.Api.csproj" />
+  <Project Path="Watchdog.Application/Watchdog.Application.csproj" />
+  <Project Path="Watchdog.Domain/Watchdog.Domain.csproj" />
+  <Project Path="Watchdog.Infrastructure/Watchdog.Infrastructure.csproj" />
+  <Project Path="Watchdog.Worker/Watchdog.Worker.csproj" />
+</Solution>
